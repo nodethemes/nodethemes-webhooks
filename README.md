@@ -34,7 +34,7 @@ Pro is installed next to the free plugin; your settings and data stay when you u
 
 ## Installation
 
-1. Download the latest version from [nodethemes.com/free-plugins](https://nodethemes.com/free-plugins/) or from the **Releases** of this repository.
+1. Download the latest version from [nodethemes.com/free-plugins](https://nodethemes.com/free-plugins/). You can also click **Code → Download ZIP** above, but the version on nodethemes.com is ready to upload as it is.
 2. In WordPress go to **Plugins → Add New Plugin → Upload Plugin**, choose the zip and click **Install Now**, then **Activate**.
 3. New versions then appear in **Dashboard → Updates** like any other plugin.
 
